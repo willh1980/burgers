@@ -1,0 +1,26 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "HW12 Burgers assignment",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willh1980/burgers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willh1980/burgers/issues"
+  },
+  "homepage": "https://github.com/willh1980/burgers#readme"
+}
